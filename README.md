@@ -1,6 +1,6 @@
 # Everest NFT Marketplace - NFT Marketplace Application
 
-<img width="1440" alt="Everst NFT Marketplace Image" src="https://i.postimg.cc/vHTkwZz3/image.png">
+<img width="1440" alt="Everst NFT Marketplace Image" src="https://i.postimg.cc/NFHXRTtd/image.png">
 
 Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration.
 
